@@ -1,0 +1,12 @@
+.input {
+  transition: none;
+
+  &:focus-within {
+      outline: rem(2px) solid var(--mantine-color-blue-filled);
+      border-color: transparent;
+  }
+}
+
+.legend-label-name {
+  font-weight: bold;
+}
