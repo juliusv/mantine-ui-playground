@@ -58,6 +58,7 @@ function App() {
               leftSection={<IconTerminal />}
               rightSectionPointerEvents="all"
               autosize
+              autoFocus
               rightSection={
                 <CloseButton
                   aria-label="Clear input"
