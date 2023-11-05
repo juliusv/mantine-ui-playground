@@ -23,7 +23,6 @@ import {
   SegmentedControl,
   Space,
   Table,
-  useMantineTheme,
 } from "@mantine/core";
 
 import {
